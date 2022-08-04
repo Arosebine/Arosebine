@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arosebine
-- 👀 I’m proficient in the using of Javascrpt, HTML, CSS, Python, Nodejs
+- 👀 I’m proficient in the using of Python, Nodejs
 - 🌱 To building web application with Python
 - 💞️ I’m looking to collaborate on a new project/ making changing to exist project.
 - 📫 How to reach me: arebine@gmail.com/ whatsapp:+2348024210779
